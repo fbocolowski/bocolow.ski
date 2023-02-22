@@ -99,17 +99,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* PCPartPicker */
-.button.button-pcpartpicker {
-  color: #FFFFFF;
-  background-color: #11131d;
-}
-
-.button.button-pcpartpicker:hover,
-.button.button-pcpartpicker:focus {
-  filter: brightness(90%);
-}
-
 /* Apple App Store */
 .button.button-appstore {
   color: #ffffff;
